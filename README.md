@@ -1,8 +1,12 @@
 Both the files contain the Python code for a Paracache Simulator following Direct Associative Mapping with a write through Policy.
 The Cache and Memory details are:
+
 Memory Size: 2K bytes =>Instruction length= 11 bits
+
 Cache Size: 32 bytes =>Index bits = 3 bits
+
 Block Size: 4 bytes => Offset Bits=2 bits
+
 Tag Bits= 11-(3+2) = 6 bits
 
 Approach 1:
